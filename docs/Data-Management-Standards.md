@@ -1,13 +1,9 @@
-Data Management and Standards
-=====
+# Data Management and Standards
 
+## Data Management Guides
 
-Data Management Guides
-------------
+- [NOAA 'Omics Data Management Guide](https://noaa-omics-dmg.readthedocs.io/en/latest/)
 
-- [NOAA 'Omics Data Management Guide](https://github.com/NOAA-Omics/noaa-omics-dmg) <br>
+## Standardization
 
-
-Standardization
-----------------
 - [Standardizing Marine Biological Data Working Group (SMBD) to mobilize marine biological data](https://github.com/ioos/bio_data_guide) <br>
