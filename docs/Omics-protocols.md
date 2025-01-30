@@ -21,7 +21,7 @@ Includes eDNA sampling, extraction, PCR, DNA cleanup, and bioinformatics.
 Protocols from the NOAA Atlantic Oceanographic & Meteorological Laboratory.
 Includes eDNA sampling, extraction, metabarcoding library prep, and metagenomic sequencing.
   <br>
-- [West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)
+- [West Coast Ocean Biomolecular Observation Network Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459).
 Large [partnership](https://evsatt.github.io/WC-OBON_Website/#partners), part of the UN Decade of Ocean Science for Sustainable Development. eDNA primers and PCR protocols for broad array of taxa, including microbes, plankton, fishes, mammals, and cephalopods. Available by request only. 
 <br>
 - [NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)
