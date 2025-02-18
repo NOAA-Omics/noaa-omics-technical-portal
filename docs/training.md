@@ -1,6 +1,14 @@
 Training Resources
 =====
 
+Introduction to GitHub within NOAA
+------------
+[NOAA GitHub Guidance](https://www.aoml.noaa.gov/ocd/ocdweb/NOAA%20GitHub%20Usage%20Guidelines.pdf)  
+[NOAA Fisheries Integrated Toolbox GitHub Guidelines](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/)  
+[NOAA Affiliated Projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects)  
+[NOAA GitHub Information](https://github.com/NOAAGov/Information)  
+[Introduction to GitHub](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)  
+
 Introduction to eDNA 
 ------------
 - [eDNA Fact Sheet](https://oceanexplorer.noaa.gov/technology/edna/edna.html) <br>
