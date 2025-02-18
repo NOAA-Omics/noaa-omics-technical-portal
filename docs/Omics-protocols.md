@@ -13,5 +13,5 @@
 - [West Coast Ocean Biomolecular Observation Network (OBON) Protocols](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit#gid=1024107459)
 
 
-**Conversion**
+### Conversion
 - To convert markdown protocols to a printable PDF see [here](https://github.com/BeBOP-OBON/0_protocol_collection_template?tab=readme-ov-file#converting-markdown-to-pdf)
