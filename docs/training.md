@@ -16,6 +16,7 @@ Introduction to eDNA
 
 Introduction to Reference Barcoding 
 ------------
+- [Introduction to Developing DNA Reference Barcode Sequences](https://doi.org/10.5281/zenodo.14867763) <br>
 - [What is DNA Barcoding?](https://oceanexplorer.noaa.gov/explorations/24skq-ak-seamounts/features/dna-barcoding.html) <br>
 
 Bioinformatics Training
