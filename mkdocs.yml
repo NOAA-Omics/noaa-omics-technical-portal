@@ -24,6 +24,7 @@ nav:
   - 'Training Resources': 'training.md'
   - 'Missing NOAA Github Repositories?': 'missing.md'
   - 'Contributors': 'contributors.md'
+  - 'Discussion Forum': "https://github.com/orgs/NOAA-Omics/discussions"
 use_directory_urls: false
 markdown_extensions:
   - toc:
