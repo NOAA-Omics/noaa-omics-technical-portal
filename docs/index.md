@@ -12,7 +12,10 @@ See a detailed list of all NOAA 'Omics resources [here](https://oceanexplorer.no
 
 
 ## Technical Portal Description
-This portal is a central repository for NOAA 'Omics technical resources. 
+This portal is a technical resource for sharing protocols for ‘Omics sampling, processing, curation, and archiving. The general purpose is to:
+1. Collate NOAA ‘Omics & NOAA affiliated methods, protocols, and bioinformatic pipelines
+2. Provide new ‘Omics users with training resources and materials
+3. Facilitate collaboration across ‘Omics practitioners in preparation for development of national standards
 
 ### Contents
 - [Data Management and Standards](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Data-Management-Standards.html)

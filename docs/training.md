@@ -11,7 +11,7 @@ Introduction to GitHub within NOAA
 
 Introduction to eDNA 
 ------------
-- [eDNA Fact Sheet](https://oceanexplorer.noaa.gov/technology/edna/edna.html) <br>
+- [eDNA Fact Sheet](https://oceanexplorer.noaa.gov/technology/edna/edna.html)
 - [AOML Exploring Environmental DNA Video Series](https://oceanexplorer.noaa.gov/technology/edna/edna.html) <br>
 
 Introduction to Reference Barcoding 
