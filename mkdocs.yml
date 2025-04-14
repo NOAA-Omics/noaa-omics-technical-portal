@@ -17,14 +17,14 @@ markdown_extensions:
   - admonition
 nav:
   - Home: 'index.md'
-  - 'Data Management and Standards': 'Data-Management-Standards.md'
-  - 'Omics Protocols': 'Omics-protocols.md'
-  - 'Bioinformatics Sequence Processing Protocols': 'Bioinformatics-sequence-processing-protocols.md'
-  - 'Aggregated Relevant NOAA Line Office Github Repositories': 'Aggregated-relevant-NOAA-Line-Office-Github-Repositories.md'
+  - 'Data Management and Standards': 'data-management.md'
+  - 'Omics Protocols': 'omics-protocols.md'
+  - 'Bioinformatics Sequence Processing Protocols': 'bioinformatics-protocols.md'
+  - 'Aggregated Relevant NOAA Line Office GitHub Repositories': 'noaa-repos.md'
   - 'Training Resources': 'training.md'
-  - 'Missing NOAA Github Repositories?': 'missing.md'
+  - 'Missing NOAA GitHub Repositories?': 'missing.md'
   - 'Contributors': 'contributors.md'
-  - 'Omics Glossary' : 'glossary.md'
+  - 'Omics Glossary': 'glossary.md'
   - 'Discussion Forum (external)': "https://github.com/orgs/NOAA-Omics/discussions"
 use_directory_urls: false
 markdown_extensions:
