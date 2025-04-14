@@ -20,10 +20,10 @@ This portal is a technical resource for sharing protocols for ‘Omics sampling,
 
 ## Contents
 
-- [Data Management and Standards](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Data-Management-Standards.html)
-- [Omics Protocols](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Omics-protocols.html)
-- [Bioinformatics Sequence Processing Protocols](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Bioinformatics-sequence-processing-protocols.html)
-- [Aggregated Relevant NOAA Line Office GitHub Repositories](https://noaa-omics-technical-portal.readthedocs.io/en/latest/Aggregated-relevant-NOAA-Line-Office-Github-Repositories.html)
+- [Data Management and Standards](https://noaa-omics-technical-portal.readthedocs.io/en/latest/data-management.html)
+- [Omics Protocols](https://noaa-omics-technical-portal.readthedocs.io/en/latest/omics-protocols.html)
+- [Bioinformatics Sequence Processing Protocols](https://noaa-omics-technical-portal.readthedocs.io/en/latest/bioinformatics-protocols.html)
+- [Aggregated Relevant NOAA Line Office GitHub Repositories](https://noaa-omics-technical-portal.readthedocs.io/en/latest/noaa-repos.html)
 - [Training Resources](https://noaa-omics-technical-portal.readthedocs.io/en/latest/training.html)
 - [Missing NOAA GitHub Repositories?](https://noaa-omics-technical-portal.readthedocs.io/en/latest/missing.html)
 - [Contributors](https://noaa-omics-technical-portal.readthedocs.io/en/latest/contributors.html)
