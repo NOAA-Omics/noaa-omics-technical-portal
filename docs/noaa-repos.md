@@ -1,4 +1,4 @@
-# Aggregated Relevant NOAA Line Office Github Repositories
+# Aggregated Relevant NOAA Line Office GitHub Repositories
 
 The following is a list of GitHub repositories for individual NOAA science centers, laboratories, and institutes. These repositories contain a wide array of protocols, tutorials, and more.
 
