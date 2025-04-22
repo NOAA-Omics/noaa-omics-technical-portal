@@ -1,4 +1,4 @@
-# Don't see your NOAA 'Omics Github repository linked here? 
+# Don't see your NOAA 'Omics GitHub repository linked here? 
 
 We envision this being a living document. We want to grow the list of resources, and we appreciate feedback and suggestions.
 
