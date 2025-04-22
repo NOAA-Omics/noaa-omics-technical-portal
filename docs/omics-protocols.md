@@ -2,7 +2,7 @@
 
 ## Protocol Standards
 
-- [BeBOP](https://github.com/BeBOP-OBON)<br>
+- [BeBOP Protocol Standard](https://github.com/BeBOP-OBON)<br>
 Better Biomolecular Ocean Practices (BeBOP) is a UN Ocean Decade project under the Ocean Biomolecular Observing Network (OBON) program. It aims to achieve increased comparability between Biomolecular Ocean Practices with the goal to create machine-readable protocol documents that have version control, assigned DOIs, and are linked to associated datasets.
 
 ## Sampling and Laboratory Protocols
