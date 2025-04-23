@@ -15,6 +15,8 @@ Protocols from the NOAA Atlantic Oceanographic & Meteorological Laboratory (AOML
 Protocols used by the Monterey Bay Aquarium Research Institute (MBARI) Biological Oceanography Group, including Marine Biodiversity Observation Network (MBON) protocols for eDNA sampling, extraction, PCR, DNA cleanup, and bioinformatics.
 - [NCOG Protocols](https://calcofi.org/data/marine-ecosystem-data/e-dna/)<br>
 NOAA-California Cooperative Oceanic Fisheries Investigations (CalCOFI) Ocean Genomics (NCOG) project protocols,  which include eDNA sampling, DNA/RNA extraction, amplicon library prep, and bioinformatics pipelines.
+- [WC-OBON Protocols](https://github.com/marinednadude/west-coast-obon-protocols)<br>
+The West Coast Ocean Biomolecular Observation Network (WC-OBON) is a partnership between [many organizations](https://evsatt.github.io/WC-OBON_Website/#partners) developed as part of the UN Decade of Ocean Science for Sustainable Development. eDNA primers and PCR protocols for a broad array of taxa, including microbes, plankton, fishes, mammals, and cephalopods.
 
 ## Conversion
 
