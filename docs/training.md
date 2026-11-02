@@ -12,6 +12,7 @@
 
 - [eDNA Fact Sheet](https://oceanexplorer.noaa.gov/technology/edna/edna.html)
 - [AOML Exploring Environmental DNA Video Series](https://oceanexplorer.noaa.gov/technology/edna/edna.html)
+- [2026 Global eDNA Conference FAIR eDNA Workshop Training Resources](https://github.com/NOAA-PMEL/Ocean-Molecular-Ecology/blob/main/2026%20GEC%20FAIR%20eDNA%20Workshop_%20Mobilizing%20Data%20from%20Standards%20to%20Sharing%20Resources%20(1).pdf)
 
 ## Introduction to Reference Barcoding 
 
